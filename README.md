@@ -7,5 +7,17 @@ Sentiment analysis using a dataset using sentiment analysis in a **huggingface**
 
 
 <h1>About dataset:</h1>
-We have a data set of reviews in a csv file. It contains 34660 rows and 21 features/columns.
+We have a data set of reviews in a csv file. It contains 34660 rows and 21 features/columns. Here we have a target variable called **rating**.
+
+<hr>
+
+
+<h1>Model Used</h1>
+Here I have used a pretrained model of **sentiment analysis** in a hugging face framework.
+
+<hr>
+
+
+<h1>Output</h1>
+Here we have a predictive system in which we have compared the actual output with the predicted output on the head of the dataset and we got around 85% of accuracy.
 
