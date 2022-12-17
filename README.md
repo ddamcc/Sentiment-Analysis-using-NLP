@@ -19,5 +19,5 @@ Here I have used a pretrained model of **sentiment analysis** in a hugging face 
 
 
 <h1>Output</h1>
-Here we have a predictive system in which we have compared the actual output with the predicted output on the head of the dataset and we got around 85% of accuracy.
+Here we have a predictive system in which we have compared the actual output with the predicted output on the head of the dataset.
 
