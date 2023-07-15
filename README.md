@@ -1,5 +1,3 @@
-# VoltaML_Assignment
-
 <h1>Problem Statement</h1>
 Sentiment analysis using a review dataset using sentiment analysis in a **hugging face** framework on the basis of various features present in the form of columns in the excel file.
 
